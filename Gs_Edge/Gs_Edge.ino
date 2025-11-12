@@ -5,7 +5,7 @@
   Autores: (Eduardo Francisco Mauro Gonçalves RM561969, Gabriel Luchetta dos Santos RM561861)
   Date: 2025-11-11
 
-  LIvrarias utilizadas:
+  Livrarias utilizadas:
     - DHT sensor library (Adafruit)
     - PubSubClient
     - WiFiClient
@@ -74,7 +74,7 @@ unsigned long lastPresenceSeen = 0;
 unsigned long sessionStart = 0;
 bool currentlyPresent = false;
 
-// Helper: get time as millis-based timestamp (no RTC)
+// Função auxiliar: obter a hora como um timestamp baseado em milissegundos (no RTC)
 unsigned long nowMillis() {
   return millis();
 }

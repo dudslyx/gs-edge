@@ -2,23 +2,23 @@
   SmartWorkAssistant.ino
   ESP32-based Smart Work Assistant for Wokwi (DHT22 + LDR + PIR + LED + BUZZER)
   Sends telemetry via MQTT and/or HTTP.
-  Author: (seu nome)
+  Autores: (Eduardo Francisco Mauro Gonçalves RM561969, Gabriel Luchetta dos Santos RM561861)
   Date: 2025-11-11
 
-  Required libraries:
+  LIvrarias utilizadas:
     - DHT sensor library (Adafruit)
     - PubSubClient
     - WiFiClient
     - HTTPClient
-    - (Optional) Adafruit_SSD1306 / Adafruit_GFX for OLED display
+    - Adafruit_SSD1306 / Adafruit_GFX para OLED display
 
-  Pin mapping (default - alter as needed):
+ Mapeamento de pinos (padrão - altere conforme necessário):
     DHT_PIN = 4
     LDR_PIN = 34   // ADC1 channel
     PIR_PIN = 32
     BUZZER_PIN = 27
     LED_PIN = 26
-    SDA = 21, SCL = 22 (OLED optional)
+    SDA = 21, SCL = 22 (OLED opicional)
 */
 
 #include <WiFi.h>

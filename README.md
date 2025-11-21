@@ -8,6 +8,7 @@
 | Gabriel Luchetta dos Santos | RM561861 |
 
 ## 🔗 Link do Vídeo: [()]
+# 🔗 Wokwi Project Link: 
 
 # Smart Work Assistant — IoT para Bem-Estar e Produtividade
 

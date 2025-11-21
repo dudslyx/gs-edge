@@ -7,6 +7,8 @@
 | Eduardo Francisco Mauro Gonçalves | RM561969 |
 | Gabriel Luchetta dos Santos | RM561861 |
 
+## 🔗 Link do Vídeo: [()]
+
 # Smart Work Assistant — IoT para Bem-Estar e Produtividade
 
 ## Resumo Detalhado:
